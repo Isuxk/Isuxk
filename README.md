@@ -1,4 +1,23 @@
-## Hi there 👋
+## Skills
+
+* ⚛️ React | React Native
+* </> JavaScript (ES6) | HTML | CSS | TypeScript
+* 💻 Git | Java | Kotlin | Python
+* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts | Encryption
+* 🐍 Python | Java | C | C++ 
+* 🗄️ Supabase | Firebase | MySQL
+- 🛠️ Visual Studio Code | Android Studio | IntelliJ
+- 🎨 Figma | Tailwind | Bootstrap | 
+- 🚀 Node.js | Next.js | Stripe | Tensorflow
+- ☁️ Vercel 
+- 🤖 Claude | Codex
+
+
+
+
+
+
+
 
 <!--
 **Doxitty/Doxitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
